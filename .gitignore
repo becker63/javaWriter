@@ -1,6 +1,6 @@
 client/.DS_STORE
 client/node_modules
-
+client/yarn.lock
 server/.gradle
 
 server/build
